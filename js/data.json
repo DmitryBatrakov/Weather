@@ -1,0 +1,87 @@
+{
+    "cod": "200",
+    "message": 0,
+    "cnt": 40,
+    "list": [
+      {
+        "dt": 1585828800,
+        "main": {
+          "temp": 18.45,
+          "feels_like": 17.67,
+          "temp_min": 17.74,
+          "temp_max": 18.45,
+          "pressure": 1016,
+          "sea_level": 1016,
+          "grnd_level": 1014,
+          "humidity": 60,
+          "temp_kf": 0.71
+        },
+        "weather": [
+          {
+            "id": 800,
+            "main": "Clear",
+            "description": "Clear",
+            "icon": "01d"
+          }
+        ],
+        "clouds": {
+          "all": 0
+        },
+        "wind": {
+          "speed": 3.53,
+          "deg": 270
+        },
+        "sys": {
+          "pod": "d"
+        },
+        "dt_txt": "2020-04-02 12:00:00"
+      },
+      {
+        "dt": 1585839600,
+        "main": {
+          "temp": 18.36,
+          "feels_like": 17.84,
+          "temp_min": 17.76,
+          "temp_max": 18.36,
+          "pressure": 1016,
+          "sea_level": 1016,
+          "grnd_level": 1014,
+          "humidity": 65,
+          "temp_kf": 0.6
+        },
+        "weather": [
+          {
+            "id": 800,
+            "main": "Clear",
+            "description": "Clear",
+            "icon": "01d"
+          }
+        ],
+        "clouds": {
+          "all": 0
+        },
+        "wind": {
+          "speed": 3.16,
+          "deg": 274
+        },
+        "sys": {
+          "pod": "d"
+        },
+        "dt_txt": "2020-04-02 15:00:00"
+      }
+     
+    ],
+    "city": {
+      "id": 294801,
+      "name": "Haifa",
+      "coord": {
+        "lat": 32.794,
+        "lon": 34.9896
+      },
+      "country": "IL",
+      "timezone": 7200,
+      "sunrise": 1585807764,
+      "sunset": 1585851582
+    }
+  }
+  
