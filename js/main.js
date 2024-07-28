@@ -14,7 +14,7 @@ async function submitHandler(e) {
 	}
 
     const cityName = input.value.trim();
-    input.value = ''
+    input.value = '';
 
 	const cityInfo = await getGeo(cityName);
     console.log('cityInfo', cityInfo);
